@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/jian/Desktop/react-native-gitfeed-master/ios/Classes/GFDiskCacheManager.m \
+  /Users/jian/Desktop/react-native-gitfeed-master/ios/Classes/GFDiskCacheManager.h \
+  ../node_modules/react-native/React/Base/RCTBridgeModule.h \
+  ../node_modules/react-native/React/Base/RCTDefines.h \
+  ../node_modules/react-native/React/Base/RCTBridge.h \
+  ../node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  ../node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  ../node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  ../node_modules/react-native/React/Base/RCTInvalidating.h \
+  ../node_modules/react-native/React/Base/RCTConvert.h \
+  ../node_modules/react-native/React/CSSLayout/CSSLayout.h \
+  ../node_modules/react-native/React/CSSLayout/CSSMacros.h \
+  ../node_modules/react-native/React/Views/RCTAnimationType.h \
+  ../node_modules/react-native/React/Views/RCTBorderStyle.h \
+  ../node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  ../node_modules/react-native/React/Base/RCTLog.h \
+  ../node_modules/react-native/React/Base/RCTAssert.h \
+  ../node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jian/Desktop/react-native-gitfeed-master/ios/Classes/H5/GFWebResourceInterceptor.h \
+  /Users/jian/Desktop/react-native-gitfeed-master/ios/Classes/H5/GFWebResourceInterceptorSettings+Internal.h \
+  /Users/jian/Desktop/react-native-gitfeed-master/ios/Classes/H5/GFWebResourceInterceptorSettings.h \
+  /Users/jian/Desktop/react-native-gitfeed-master/ios/Classes/H5/GFWebResourceCache.h \
+  /Users/jian/Desktop/react-native-gitfeed-master/ios/Classes/DXFileManager.h

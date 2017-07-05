@@ -1,0 +1,24 @@
+{
+  "name": "OSCGit",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@remobile/react-native-toast": "^1.0.4",
+    "base-64": "^0.1.0",
+    "events": "~1.1.0",
+    "lodash": "^4.6.1",
+    "react-native": "^0.21.0",
+    "react-native-activity-view": "^0.2.8",
+    "react-native-code-push": "~1.7.3-beta",
+    "react-native-dropdown": "0.0.6",
+    "react-native-gifted-listview": "0.0.12",
+    "react-native-picker-android": "^0.3.8",
+    "react-native-scrollable-tab-view": "~0.3.4",
+    "react-native-shake-event-ios": "^1.0.3",
+    "react-native-share": "^1.0.9",
+    "react-native-vector-icons": "git+https://github.com/oblador/react-native-vector-icons.git"
+  }
+}

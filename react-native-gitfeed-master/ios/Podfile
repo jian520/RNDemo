@@ -1,0 +1,5 @@
+target 'gitfeed' do
+
+
+pod 'UMengAnalytics-NO-IDFA'
+end
